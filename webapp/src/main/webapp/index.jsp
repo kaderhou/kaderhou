@@ -2,4 +2,4 @@
 <h1> Cloned from git https://github.com/kaderhou/kaderhou.git  </h1>
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Glad to see you here </h2>
-<h3> Nice to play with git Maven and Jenkins </h2>
+<h3> Nice to play with git Maven and Jenkins </h3>
